@@ -30,7 +30,7 @@ Se creará un archivo main donde se escribirá el código en el que se realizar�
 
 ### DIAGRAMA DE CLASES:    
 &nbsp; 
-![Amazoon Diagrama](img\amazoon.png)
+![Amazoon Diagrama](img/amazoon.png)
 
 
 ### ACTIVIDADES A REALIZAR
