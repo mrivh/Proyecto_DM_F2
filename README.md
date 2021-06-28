@@ -36,8 +36,7 @@ Se creará un archivo main donde se escribirá el código en el que se realizar�
 ### ACTIVIDADES A REALIZAR
 &nbsp; 
 
--  ### Postwork 1
--  ### Postwork 2
--  ## [Postwork 3](https://github.com/mrivh/Proyecto_DM_F2/tree/main/Postwork%203/Postwork_POO_1)
+
+-  ## [Postwork 1 & 2 & 3](https://github.com/mrivh/Proyecto_DM_F2/tree/main/Postwork%203/Postwork_POO_1)
 
 -  ## [Reto Final Sesión 1](https://docs.google.com/document/d/1YrtnnxGDdjBmVxc9vS5QLqtzGQoeCXrI8yFs6wI2VU0/edit#)
