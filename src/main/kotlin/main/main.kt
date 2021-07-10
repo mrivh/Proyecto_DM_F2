@@ -1,11 +1,11 @@
 package main
-
 import sesion3.Login
 import sesion3.Market
 
+
 fun main(){
-    var log = Login(user = String(),  pass = String(), us = String(), pas = String())
-    var market = Market(nameproduct = String(),typeproduct = String(),brand = String(),color = String(),
+    val log = Login(user = String(),  pass = String(), us = String(), pas = String())
+    val market = Market(nameproduct = String(),typeproduct = String(),brand = String(),color = String(),
         manyproducts = String(),description = String())
 
     println("[         Amazoon          ]")
@@ -21,7 +21,7 @@ fun main(){
     log.pas = readLine().toString()
 
     if (log.user == log.us && log.pass == log.pas) {
-        println("Hola ${log.user} Bienvenido a tu cuenta")
+        println("Hola ${log.user} ¡Bienvenido a tu súper cuenta de Amazoon :D !")
     } else {
         println("Error al encontrar al usuario!!")
     }
