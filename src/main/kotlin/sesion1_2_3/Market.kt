@@ -1,4 +1,4 @@
-package sesion3
+package sesion1_2_3
 
 class Market (nameproduct:String, typeproduct:String, brand:String,color:String,manyproducts:String,
                  description:String) {
@@ -9,4 +9,7 @@ class Market (nameproduct:String, typeproduct:String, brand:String,color:String,
         var color: String = color
         var manyproducts : String = manyproducts
         var description: String = description
+
     }
+
+
