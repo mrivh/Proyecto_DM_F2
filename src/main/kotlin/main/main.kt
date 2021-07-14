@@ -2,7 +2,6 @@ package main
 
 import sesion1_2_3.Login
 import sesion1_2_3.Market
-import sesion1_2_3.Buyers
 import sesion1_2_3.Whishlist
 import sesion5_6.Car
 
@@ -12,7 +11,6 @@ fun main() {
     var market = Market(
         nameproduct = String(), typeproduct = String(), brand = String(), color = String(),
         manyproducts = String(), description = String())
-    var buyers = Buyers()
     var whishlist = Whishlist()
     var car = Car(product = String(), precio = Int.MAX_VALUE , cantidad = Int.MAX_VALUE, id_compra = Int.MAX_VALUE)
 
@@ -84,7 +82,7 @@ fun main() {
     println(" '6' Electrodomesticos")
     var option2: Int = readLine()!!.toInt()
     var options2 = when (option2) {
-        1 -> println("${car.cate1()}")
+        1 -> println("${car.cate1()} ")
         2 -> println("${car.cate2()} ")
         3 -> println("${car.cate3()} ")
         4 -> println("${car.cate4()}")
